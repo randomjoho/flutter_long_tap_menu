@@ -123,7 +123,7 @@ class MenuState extends State<Menu> {
     );
 
     w = Padding(
-    padding: EdgeInsets.only(left: rect.left+rect.size.width/2-15, top: rect.top-8),
+    padding: EdgeInsets.only(left: rect.left+rect.size.width/2-18, top: rect.top-8),
       child: w,
     );
 
